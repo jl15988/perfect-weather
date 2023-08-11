@@ -1,7 +1,13 @@
 {
-  "name": "weather-desktop",
+  "name": "perfect-weather",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "jl15988",
+    "url": "https://github.com/jl15988/perfect-weather"
+  },
+  "description": "完美天气",
+  "license": "MIT license",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
